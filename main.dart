@@ -26,7 +26,6 @@ class Mobile{
   }
   
   Mobile.random(this.camera, this.speakers){
-    print('asd');
   }
 }
 
