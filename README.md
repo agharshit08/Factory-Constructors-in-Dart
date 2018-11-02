@@ -1,2 +1,2 @@
 # Factory-Constructors-in-Dart
-This is a description about how you can use factory constructors.
+Take a look at main.dart file to see how we can use factory constructors in dart.
